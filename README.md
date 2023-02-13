@@ -10,6 +10,6 @@ Here are some ideas to get you started:-->
 <!-- - 👯 I’m looking to collaborate on 
  - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about: Typescript, React, MYSQL, PHP, GIT
-- 📫 How to reach me: <a href="discordapp.com/users/649812635465941002"><img src="https://img.icons8.com/fluency/48/null/discord-logo.png"/ height="14px" width="14px"></a>
+- 📫 How to reach me: <a href="discordapp.com/users/649812635465941002"><img src="https://img.icons8.com/fluency/48/null/discord-logo.png" height="14px" width="14px"></a>
 <!-- - 😄 Pronouns: ...-->
 - ⚡ Fun fact: There are 10 kinds of people in this world. Those who understand binary, and those who do not.

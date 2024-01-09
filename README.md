@@ -7,8 +7,7 @@ I enjoy solving complex computing problems using the most straight forward and I
 **kamau-crypto/kamau-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:-->
 
-![3301602](https://github.com/kamau-crypto/kamau-crypto/assets/85543058/a0162245-5cac-4c1f-b2e4-5c4676c082e7)
-
+![Code typing (1)](https://github.com/kamau-crypto/kamau-crypto/assets/85543058/151e5df6-7068-474b-8251-3cb0ee348fd3)
 
 
 - 👀 I'm also working on a Lyrics finding app using text base inputs.

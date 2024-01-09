@@ -5,8 +5,9 @@ I enjoy solving complex computing problems using the most straight forward and I
 
 <!--
 **kamau-crypto/kamau-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:-->
+
+<iframe src="https://storyset.com/illustration/code-typing/rafiki/animate?share=76779"></iframe>
 
 
 - 👀 I'm also working on a Lyrics finding app using text base inputs.

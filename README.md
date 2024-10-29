@@ -9,9 +9,7 @@ Here are some ideas to get you started:-->
 
 
 
-- 👀 I'm also working on a Lyrics finding app using text base inputs.
-- 🌱 I’m currently learning NestJS
-- 🔭 I’m currently working on a Chat system developed using PHP and JavaScript's WebSocket API
+- 👀 I'm currently working on a Lyrics finding app using text base inputs.
 <!-- - 👯 I’m looking to collaborate on 
  - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about: --> 

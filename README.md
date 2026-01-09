@@ -1,7 +1,8 @@
 ### Hi there 👋.
 
-I am Peter Kung'u. A Full Stack Software Developer with PHP, TypeScript, and Python as my core programming languages. 
-I enjoy solving complex computing problems using the most straight forward and Industry approoved methodologies to end up with simple and accurate solutions.
+I am Peter Kung'u. A Full Stack Engineer with Python, TypeScript, and Javascript as my core programming languages. 
+I enjoy working with frameworks such as React, Flask, NestJs, Fast API, NextJs, Expo, and Tanstack Start.
+I enjoy solving complex problems using the most simple and Industry approoved methods to develop accurate and reliable solutions.
 
 <!--
 **kamau-crypto/kamau-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +10,7 @@ Here are some ideas to get you started:-->
 
 
 
-- 👀 I'm currently working on a Lyrics finding app using text base inputs.
+- 👀 I am working on an Mobile Application that automates business processes using an ERP.
 <!-- - 👯 I’m looking to collaborate on 
  - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about: --> 

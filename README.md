@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 
 
 
-- 👀 I am working on an Expo Mobile Appl that automates business processes using ERPNext.
+- 👀 I am working on an Expo Mobile App that automates business processes using ERPNext.
 <!-- - 👯 I’m looking to collaborate on 
  - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about: --> 
